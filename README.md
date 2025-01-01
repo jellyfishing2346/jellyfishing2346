@@ -9,8 +9,8 @@
 
 🤝 Let’s Connect!
 
-    [LinkedIn](https://www.linkedin.com/in/faizan-khan234/): Connect for professional updates and opportunities.
-    [Instagram](https://www.instagram.com/faizizizan/): Catch glimpses of my personal and tech journey.
+- [LinkedIn](https://www.linkedin.com/in/faizan-khan234/): Connect for professional updates and opportunities.
+- [Instagram](https://www.instagram.com/faizizizan/): Catch glimpses of my personal and tech journey.
 
 💪 Collaboration is key! Whether it's brainstorming ideas, building impactful projects, or exploring innovative solutions, I’m always ready to lend a hand.
 
