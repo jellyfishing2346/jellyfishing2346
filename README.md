@@ -14,4 +14,4 @@
 
 💪 Collaboration is key! Whether it's brainstorming ideas, building impactful projects, or exploring innovative solutions, I’m always ready to lend a hand.
 
-📧 [Email](faizanakhan2003@gmail.com) Feel free to reach out and let’s make great things happen
+📧 [Email](mailto:faizanakhan2003@gmail.com) Feel free to reach out and let’s make great things happen
