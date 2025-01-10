@@ -4,23 +4,56 @@
 
 💡 WEB102 Projects:
 
-    Technology Sparks: A computer science forum to answer all computer science related queries
-    Crewmates: 
-    A create form allows users to add new crewmates
-        Users can name the crewmate
-        Users can set the crewmate's attributes by clicking on one of several values
-    The site displays a summary page of all the user's added crewmates
-    A previously created crewmate can be updated from the crewmate list
-    A previously created crewmate can be deleted from the crewmate list
-    Each crewmate has a direct, unique link to an info page about them
-    Trendy-tv-2:
-    Trendy-tv: This project is a React-based data dashboard that fetches and visualizes data from an API. It provides interactive features for data analysis, including summary statistics,       search functionality, and filtering options. 
-    Random Cat Generator: This React application fetches and displays random cat images along with breed information from an external API. Users can view cat images, see breed details, and      manage a ban list to filter out specific breeds.
-    Brain-Bites-2: 
-    Diverse Topics: Explore flashcards covering General Knowledge, Science & Nature, History, Sports, Music, Mathematics, Geography, Books, Computer Science, and  Art. Interactive Learning:     Enjoy a user-friendly interface that makes learning intuitive and engaging. Customizable Flashcards: Create, edit, and personalize your own flashcards to tailor your learning                experience. Progress Tracking: Monitor your learning journey and track your improvement over time. Gamified Experience: Challenge yourself with quizzes and games to reinforce your           knowledge and keep learning fun!
-    Brain-Bites:
-    Diverse Topics: Explore flashcards covering General Knowledge, Science & Nature, History, Sports, Music, Mathematics, Geography, Books, Computer Science, and  Art. Interactive Learning:     Enjoy a user-friendly interface that makes learning intuitive and engaging. Customizable Flashcards: Create, edit, and personalize your own flashcards to tailor your learning                experience. Progress Tracking: Monitor your learning journey and track your improvement over time. Gamified Experience: Challenge yourself with quizzes and games to reinforce your           knowledge and keep learning fun!
-    BC-Math-Department: This project is a website for the Brooklyn College Mathematics Department, showcasing course offerings and faculty profiles.
+    ### 1. **Technology Sparks**
+A computer science forum to answer all computer science related queries.
+
+---
+
+### 2. **Crewmates**
+- **Create Form**: Allows users to add new crewmates.
+    - Users can name the crewmate.
+    - Users can set the crewmate's attributes by clicking on one of several values.
+- **Summary Page**: Displays a list of all the user's added crewmates.
+- **Update Crewmates**: Users can update previously created crewmates from the crewmate list.
+- **Delete Crewmates**: Users can delete previously created crewmates from the list.
+- **Unique Link**: Each crewmate has a direct, unique link to an info page about them.
+
+---
+
+### 3. **Trendy-tv-2**
+A React-based data dashboard that fetches and visualizes data from an API. It provides interactive features for data analysis, including:
+- Summary statistics
+- Search functionality
+- Filtering options
+
+---
+
+### 4. **Random Cat Generator**
+A React application that fetches and displays random cat images along with breed information from an external API. Features include:
+- Viewing random cat images
+- Viewing breed details
+- Managing a ban list to filter out specific breeds
+
+---
+
+### 5. **Brain-Bites-2**
+An interactive learning platform with flashcards across diverse topics. Features include:
+- **Diverse Topics**: General Knowledge, Science & Nature, History, Sports, Music, Mathematics, Geography, Books, Computer Science, and Art.
+- **Customizable Flashcards**: Create, edit, and personalize flashcards.
+- **Progress Tracking**: Track your learning progress.
+- **Gamified Experience**: Engage with quizzes and games to reinforce knowledge.
+
+---
+
+### 6. **Brain-Bites**
+An earlier version of Brain-Bites-2, with the same features as listed above.
+
+---
+
+### 7. **BC-Math-Department**
+A website for the Brooklyn College Mathematics Department showcasing:
+- Course offerings
+- Faculty profiles
     
 🤝 Let’s Connect!
 
