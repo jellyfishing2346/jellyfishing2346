@@ -37,4 +37,32 @@
 
 ### 🚀 **What I’m Currently Exploring**  
 - **Web3**: Solidity, Ethers.js  
--
+- **AI/ML**: Hugging Face Transformers, LangChain  
+- **Data Engineering**: Airflow, Kafka  
+
+---
+
+### 📌 **Featured Projects**  
+
+| Project | Tech Stack | Description |  
+|---------|------------|-------------|  
+| **[AI-Powered Resume Analyzer](https://github.com/yourlink)** | Python, NLP, FastAPI | Scans resumes using NLP and ranks candidates. |  
+| **[Real-Time Chat App](https://github.com/yourlink)** | React, Socket.io, Node.js | Live messaging with JWT auth. |  
+| **[Stock Price Predictor](https://github.com/yourlink)** | LSTM, Yahoo Finance API | 92% accuracy stock forecasting model. |  
+
+---
+
+### 📊 **GitHub Stats**  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+
+---
+
+### 📫 **Let’s Build Something Cool!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+
