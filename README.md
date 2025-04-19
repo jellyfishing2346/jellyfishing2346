@@ -46,7 +46,7 @@
 
 | Project | Tech Stack | Description |  
 |---------|------------|-------------|  
-| **[AI-Powered Resume Analyzer](https://github.com/yourlink)** | Python, NLP, FastAPI | Scans resumes using NLP and ranks candidates. |  
+| **[AI-Powered Resume Analyzer](https://github.com/jellyfishing2346/AI-Powered-Resume-Analyzer)** | Python, NLP, FastAPI | Scans resumes using NLP and ranks candidates. |  
 | **[Real-Time Chat App](https://github.com/yourlink)** | React, Socket.io, Node.js | Live messaging with JWT auth. |  
 | **[Stock Price Predictor](https://github.com/yourlink)** | LSTM, Yahoo Finance API | 92% accuracy stock forecasting model. |  
 
