@@ -54,9 +54,9 @@
 
 ### 📊 **GitHub Stats**  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jellyfishing2346&theme=dark)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/jellyfishing2346)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical)](https://github.com/jellyfishing2346)  
 
 ---
 
