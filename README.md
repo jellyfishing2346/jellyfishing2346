@@ -47,8 +47,8 @@
 | Project | Tech Stack | Description |  
 |---------|------------|-------------|  
 | **[AI-Powered Resume Analyzer](https://github.com/jellyfishing2346/AI-Powered-Resume-Analyzer)** | Python, NLP, FastAPI | Scans resumes using NLP and ranks candidates. |  
-| **[Insightful Dash](https://github.com/jellyfishing2346/InsightDash)** | React, Socket.io, Node.js | Live messaging with JWT auth. |  
-| **[Stock Price Predictor](https://github.com/jellyfishing2346/SmartCart)** | LSTM, Yahoo Finance API | 92% accuracy stock forecasting model. |  
+| **[InsightDash](https://github.com/jellyfishing2346/InsightDash)** | React, Socket.io, Node.js | Live messaging with JWT auth. |  
+| **[SmartCart](https://github.com/jellyfishing2346/SmartCart)** | LSTM, Yahoo Finance API | 92% accuracy stock forecasting model. |  
 
 ---
 
