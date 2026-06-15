@@ -1,7 +1,7 @@
 # 👨‍💻 Faizan Khan
 ### *Software Engineer → Quantitative Finance*
 **FinTech ML Engineering · Credit Risk · Fraud Detection · Systematic Trading**
-CS @ Brooklyn College · Graduating May 2026 · Open to FinTech roles
+CS @ Brooklyn College · Open to FinTech roles
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=500&lines=Quantitative+Finance+%7C+ML+Engineering;Credit+Risk+%7C+Fraud+Detection+%7C+Backtesting;Python+%7C+XGBoost+%7C+FastAPI+%7C+Kafka;Full-Stack+Background+%7C+Production+Systems" alt="Typing SVG" />
