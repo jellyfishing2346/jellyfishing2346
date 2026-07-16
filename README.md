@@ -15,7 +15,7 @@ CS @ Brooklyn College · Open to FinTech roles
 |---------|-------|-------------|
 | **[Quantitative Trading Framework](https://github.com/jellyfishing2346/quantitative-finance)** | Backtrader · QuantStats · yfinance · Plotly Dash | Momentum + mean-reversion signals backtested over 4 years. Sharpe 0.74. Walk-forward validated, real transaction costs. |
 | **[Credit Risk Scoring Engine](https://github.com/jellyfishing2346/credit-risk)** | XGBoost · SHAP · FastAPI · PostgreSQL · Docker | End-to-end loan default prediction. ROC-AUC 0.79, 307K records, REST API with adverse-action SHAP explanations. |
-| **[Fraud Detection Engine](https://github.com/jellyfishing2346/fraud-detection-engine)** | Kafka · Redis · XGBoost · FastAPI · PostgreSQL | Real-time transaction scoring at 2ms. ROC-AUC 0.98, 89% fraud recall, 0.08% false positive rate. Built solo in 8 weeks. |
+| **[Fraud Detection Engine](https://github.com/jellyfishing2346/fraud-detection-engine.)** | Kafka · Redis · XGBoost · FastAPI · PostgreSQL | Real-time transaction scoring at 2ms. ROC-AUC 0.98, 89% fraud recall, 0.08% false positive rate. Built solo in 8 weeks. |
 
 ---
 
