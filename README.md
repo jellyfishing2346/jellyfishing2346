@@ -30,7 +30,7 @@ Open to software engineering internships across backend systems, data engineerin
   - Built Python ETL and ML workflows with validation, schema enforcement, and anomaly detection.
   - Worked on extracting structured data from unstructured narratives.
 
-- **Teaching Assistant — Brooklyn College**
+- **Teaching Assistant — CUNY Tech Prep & CodePath.org**
   - Support instruction in cybersecurity, web development, AI foundations, and data science.
   - Help students debug projects and translate complex technical concepts into practical solutions.
 
