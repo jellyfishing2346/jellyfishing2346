@@ -38,7 +38,7 @@ Open to software engineering internships across backend systems, data engineerin
   - Built distributed backend services with Node.js, Express, Docker, and GCP.
 
 - **Software Engineering Intern — AutoLake LLC**
-  - Improved API consistency and contributed to security auditing across web applications.
+  - Improved API consistency and contributed to compliance checks across web applications.
 
 ---
 
