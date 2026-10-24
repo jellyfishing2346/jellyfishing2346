@@ -103,6 +103,6 @@ Open to software engineering internships across backend systems, data engineerin
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-khan234/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanakhan2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizan.khan.intern02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-087F73?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio-xi-liart-28.vercel.app/)
 
