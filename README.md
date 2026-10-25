@@ -44,9 +44,9 @@ Open to software engineering internships across backend systems, data engineerin
 
 ### 🌱 Activities
 
-- ![Project Alpaca](https://projectalpaca.org/)
-- ![Brooklyn College Computer Science Club](https://bccs.club/)
-- ![CUNY Tech Prep](https://cunytechprep.org/)
+- [Project Alpaca](https://projectalpaca.org/)
+- [Brooklyn College Computer Science Club](https://bccs.club/)
+- [CUNY Tech Prep](https://cunytechprep.org/)
 
 ---
 
